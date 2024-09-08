@@ -8,7 +8,6 @@ import Footer from './components/Footer/Footer'
 const App = () => {
   return (
     <div className='w-[85%] m-auto bg-white'>
-      <p className='bg-black text-white'>testing</p>
       <NavBar/>
       <Search/>
       <Jobs/>
